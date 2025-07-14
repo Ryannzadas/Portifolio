@@ -58,7 +58,7 @@ const Hero: React.FC = () => {
 
           <div className="flex justify-center space-x-6 mb-12">
             <a
-              href="https://github.com"
+              href="https://github.com/Ryannzadas"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-blue-600 transition-colors duration-300 transform hover:scale-110"
@@ -66,7 +66,7 @@ const Hero: React.FC = () => {
               <Github size={24} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/jo%C3%A3o-ryan-941769268/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-blue-600 transition-colors duration-300 transform hover:scale-110"
